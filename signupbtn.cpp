@@ -6,4 +6,5 @@ int main()
 {
     cout<< "Priyom"<<endl;
     cout<< "2267"<<endl;
+    cout<< "Sec-c"<<endl;
 }
